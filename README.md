@@ -1,6 +1,8 @@
 # Key Factors that Explain Physical Album Success in Fourth Generation K-pop
-# Feier Su 
+by Feier Su 
+
 USC ID: 5158296767
+
 feiers@usc.edu
 
 This project analyzes KPOP physical album sales data to explore patterns and correlations related to parent companies, group types, and other numerical factors. The analysis includes data collection and cleaning, statistical testings, and visualizations of correlation and sales distributions. Due to limited data base, some missing values that could not be found were remained as blanks.
